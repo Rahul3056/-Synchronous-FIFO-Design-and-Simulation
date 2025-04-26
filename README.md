@@ -56,4 +56,4 @@ Sample waveform showing push/pop operations and FIFO counter:
 ---
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or contribute to the project!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahulteradal/) or contribute to the project!
